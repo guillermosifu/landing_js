@@ -42,7 +42,7 @@
   
   .item1 {
     grid-area: menu;
-    background-color: #0a192a;
+    background-color: #008080;
     position: fixed;
     width: 300px;
     height: 100%;
@@ -60,7 +60,7 @@
   .item3 {
     scroll-behavior: smooth;
     grid-area: content;
-    background-color: #0a192a;
+    background-color: rgba(3, 3, 3, 0.904);
     overflow: auto;
   }
   
